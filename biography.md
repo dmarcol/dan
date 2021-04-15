@@ -18,9 +18,11 @@
 
 -  absolventská stáž / bytový odbor
 
-Vzdělání:
+# Vzdělání:
 2002–2008     -   Ostravská univerzita – Polský jazyk / Mgr.
 
-Další znalosti a dovednost 
+# Další znalosti a dovednosti 
+
 Polština, Angličtina, Němčina(základy)
+
 Vlastním řidičský průkaz sk. B od roku 2001 (19 let praxe)
