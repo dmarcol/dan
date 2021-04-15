@@ -2,7 +2,7 @@
 
 # Pracovní zkušenosti:
 
-## AT&T  Brno - Systemový inženýr
+### AT&T  Brno - Systemový inženýr
 
 01/10/2015 – 30/04/2017
 -  analýza síťových prvků zakazníku po bezpečnostní stránce
@@ -13,7 +13,7 @@
 01/10/2008 – 31/07/2015
 -  diagnostika sítí , zadávaní oprav,  24/7  telefonická podpora zákazníků
 
-#### Městský úřad Rychvald
+### Městský úřad Rychvald
 1/3/ 2004  - 9/9/2004  
 
 -  absolventská stáž / bytový odbor
