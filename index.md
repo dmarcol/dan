@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/titan821/dan/edit/gh-pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Cvičení
+
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
+[odkaz na produkt z e-shopu](https://www.spirala-ops.cz/_files/200001390-51bfa51bfc/susenky2.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +29,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![odkaz na produkt z e-shopu](https://www.spirala-ops.cz/_files/200001390-51bfa51bfc/susenky2.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
