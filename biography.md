@@ -26,3 +26,6 @@
 Polština, Angličtina, Němčina(základy)
 
 Vlastním řidičský průkaz sk. B od roku 2001 (19 let praxe)
+
+
+http://www.github.com/
