@@ -1,6 +1,6 @@
 #  Learning Git and Github 
 
-From youtube. 
+From youtube.   -  https://www.youtube.com/watch?v=RGOj5yH7evk&t=2130s
 
 Generated public and private keys for ssh. Added ssh key to the github.
 
