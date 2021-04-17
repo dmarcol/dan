@@ -38,4 +38,10 @@ dan@dan-Aspire-V3-371:~/dan$ git status
 dan@dan-Aspire-V3-371:~/dan$ git commit -m "added text to readme"
 
 
+
+to update locall repository: dan@dan-Aspire-V3-371:~/web$ git pull origin master
+
+
+
+
 adsasdasdasdasdasdasdasdasda
